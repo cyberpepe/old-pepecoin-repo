@@ -1,3 +1,10 @@
+9 / 27 / 2016 
+
+PepeCoin is also known as Memetic or Memetic Project now.
+
+See https://github.com/memeticproject/memetic-core
+
+
 PepeCoin (PEPE)
 ===============
 -------------------------------------------
